@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+
+#streamlit and its plugin
+streamlit
+streamlit-option-menu
+
